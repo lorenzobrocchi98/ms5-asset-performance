@@ -191,6 +191,7 @@ cython_debug/
 *.shi
 *.gif
 *.docx
+*.duckdb
 
 /mock
 /secrets/
